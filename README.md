@@ -25,7 +25,7 @@ Desenvolvedor focado no ecossistema **Java** e **Web Moderno**. Gosto de resolve
 
 ### 📊 Linguagens mais utilizadas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauarb&layout=compact&theme=dracula&langs_count=6" alt="Top Languages" />
+  <img src="https://linkedin.com/in/cauã-ribeiro-7435651b7&layout=compact&theme=dracula&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
