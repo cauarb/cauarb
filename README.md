@@ -1,6 +1,32 @@
-### Olá 👋
+# Olá, eu sou o Cauã! 👋
 
-- 🔭I am currently looking for a job opportunity in the development area
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, JAVA, C++
-- 📫 How to reach me: @cauarb
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cauarb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauarb&layout=compact&theme=dracula&langs_count=6" alt="Top Languages" height="180em" />
+</div>
 
+### 🚀 Sobre mim
+Desenvolvedor focado no ecossistema **Java** e **Web Moderno**. Gosto de resolver problemas complexos no Backend e entregar experiências fluidas no Frontend.
+
+- 💻 Atualmente focado em **Spring Boot** e **Angular**.
+- 🗄️ Experiência com modelagem de dados em **MySQL**.
+- 🛠️ Buscando sempre as melhores práticas (Clean Code, SOLID).
+
+---
+
+### 🛠️ Toolbox (Stacks)
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) |
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+
+---
+
+### 📫 Me encontre:
+<div align="left">
+  <a href="https://linkedin.com/in/SEU_LINK_DO_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
