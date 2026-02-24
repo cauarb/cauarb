@@ -13,24 +13,20 @@ Desenvolvedor focado no ecossistema **Java** e **Web Moderno**. Gosto de resolve
 
 ---
 
-### 🛠️ Toolbox & Stats
+### 🛠️ Toolbox (Stacks)
 
-<table>
-  <tr>
-    <td width="50%">
-      <b>Stacks principais:</b><br><br>
-      • <b>Backend:</b> <br>
-      ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) <br><br>
-      • <b>Frontend:</b> <br>
-      ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) <br><br>
-      • <b>Database:</b> <br>
-      ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauarb&layout=compact&theme=dracula&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) |
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+
+---
+
+### 📊 Linguagens mais utilizadas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauarb&layout=compact&theme=dracula&langs_count=6" alt="Top Languages" />
+</div>
 
 ---
 
